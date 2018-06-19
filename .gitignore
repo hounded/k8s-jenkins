@@ -3,4 +3,4 @@
 *.tfstate*
 *.tfvars
 *.log
-./my-cluster/k8s-01.json
+/my-cluster/k8s-01.json
