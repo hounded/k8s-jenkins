@@ -1,6 +1,6 @@
 resource "google_dns_managed_zone" "primary" {
   name        = "raddit-zone"
-  dns_name    = "genunity.co.nz"
+  dns_name    = "genunity.co.nz."
   description = "DNS zone for the Raddit domain"
 }
 
