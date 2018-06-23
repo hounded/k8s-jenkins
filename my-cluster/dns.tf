@@ -1,6 +1,6 @@
 resource "google_dns_managed_zone" "primary" {
   name        = "raddit-zone"
-  dns_name    = "devops-by-practice.fun."
+  dns_name    = "genunity.co.nz"
   description = "DNS zone for the Raddit domain"
 }
 
